@@ -1,14 +1,10 @@
 #!/usr/bin/python
-
-
 print ("Yasmien")
 print ("yasmeenkhedry2020@gmail.com")
 print ("@sam")
 print ("GenomicsTranscriptomicsvaccineinformatics")
 print ("@Jaz")
-
-#calculating hamming distance
- 
+#calculating hamming distance 
 def h_d_loop(str_1,str_2) :
      h_distance = 0
      for position in range(len(str_1)):
