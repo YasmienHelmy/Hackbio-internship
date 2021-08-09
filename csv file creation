@@ -1,0 +1,8 @@
+#install gitbash
+go to gitbash
+git clone https://github.com/YasmienHelmy/Hackbio-internship.git
+cd Hackbio-internship
+ls
+#!/bin/sh python  myscript.py*
+chmod +x  myscript.py*
+./myscript.py* input.csv > Output_for_Euphoria.csv
